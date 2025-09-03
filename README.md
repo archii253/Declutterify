@@ -26,7 +26,7 @@ It helps users upload, organize, and manage photos/videos by detecting duplicate
 ## 📦 Installation
 
 ### 1. Clone the repository
-git clone https://github.com/archii253/declutterify.git
-cd Declutterify
+**git clone https://github.com/archii253/declutterify.git**
+**cd Declutterify**
 
 
